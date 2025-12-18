@@ -5,7 +5,7 @@ This project demonstrates the end-to-end process of transforming raw, unstructur
 
 The goal of this project is to showcase data cleaning, modelling, and visualisation skills while enabling data-driven decision-making for HR stakeholders.
 
-Tools & Technologies
+**Tools & Technologies**
 
 Power BI – Data modelling, analysis, and dashboard creation
 
@@ -13,7 +13,7 @@ Power Query – Data cleaning, transformation, and automation
 
 CSV Dataset – Raw HR data source
 
-Key Features
+**Key Features**
 Data Preparation (Power Query)
 
 Imported raw HR data from CSV files
@@ -28,7 +28,7 @@ Created calculated columns and transformed fields for analysis
 
 Automated transformation steps for easy refresh
 
-Data Analysis & Modelling (Power BI)
+**Data Analysis & Modelling (Power BI)**
 
 Loaded clean data into the Power BI data model
 
@@ -36,11 +36,9 @@ Created relationships and calculated measures (DAX where required)
 
 Performed HR-focused analysis such as employee distribution and trends
 
-Dashboard & Reporting
+**Dashboard & Reporting**
 
 Designed interactive and user-friendly dashboards
-
-Implemented KPIs, filters, and slicers for dynamic exploration
 
 Created visualisations to highlight key HR metrics and insights
 
